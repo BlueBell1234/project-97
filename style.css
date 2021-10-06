@@ -1,0 +1,34 @@
+.body{
+    background-image: url("https://www.enjpg.com/img/2020/yellow-6.jpg");
+    background-size: cover;
+}
+
+#result{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    border-radius: 5px;
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    border-radius: 5px;
+}
+#logo_img
+{
+    width: 87px;
+    border-radius: 100px;
+}
+
+
+#textbox
+{
+    width: 300px;
+}
